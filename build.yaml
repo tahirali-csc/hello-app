@@ -1,0 +1,10 @@
+steps:
+    - name: step1
+      image: alpine
+      commands:
+      - echo hello world
+    
+    - name: step2
+      image: alpine
+      commands:
+      - echo bonjour monde

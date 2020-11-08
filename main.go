@@ -8,6 +8,6 @@ import (
 
 func main() {
 	module1.Do()
-	log.Println("Hello App")
+	log.Println("Hello  App")
 }
 

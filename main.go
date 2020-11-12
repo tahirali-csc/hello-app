@@ -5,9 +5,7 @@ import (
 	"log"
 )
 
-
 func main() {
 	module1.Do()
 	log.Println("Hello  App")
 }
-

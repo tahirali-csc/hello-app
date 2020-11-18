@@ -20,6 +20,10 @@ github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/tahirali-csc/task-executor-ci v0.0.0-20201115201126-058aec9f7f5e h1:Bjz4dMqbI/fIC19eIR5J3JNeW6ZUvIgmutloQSLm/bw=
 github.com/tahirali-csc/task-executor-ci v0.0.0-20201115201126-058aec9f7f5e/go.mod h1:qSCmX1Afr+KcTyh6hcZfZVkPrZzVk8pUosHNeSavles=
+github.com/tahirali-csc/task-executor-ci v0.0.0-20201118181605-f027add90f20 h1:H/0/nmvK3dvsPCENDRBTNIoTuotbJhi2YQsUPtT8q10=
+github.com/tahirali-csc/task-executor-ci v0.0.0-20201118181605-f027add90f20/go.mod h1:6sAKslo05Zs+I6Qnqo4tK3RubzxTQQFG/TjPKxn+2Vk=
+github.com/tahirali-csc/task-executor-ci v0.0.1 h1:1K+0abbupa9T+8+FRwJa+5pjRQkBRKa0FuHMnL6VKHU=
+github.com/tahirali-csc/task-executor-ci v0.0.1/go.mod h1:6sAKslo05Zs+I6Qnqo4tK3RubzxTQQFG/TjPKxn+2Vk=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=

@@ -4,7 +4,6 @@ import (
 	"bufio"
 	ci "github.com/tahirali-csc/task-executor-ci"
 	"log"
-	"os"
 	"os/exec"
 )
 
@@ -35,8 +34,8 @@ func main() {
 	log.Println("Starting Build...")
 
 	//For testing
-	os.Setenv("TE_HOST_URL", "http://localhost:8080")
-	os.Setenv("TE_BUILD_ID", "17")
+	//os.Setenv("TE_HOST_URL", "http://localhost:8080")
+	//os.Setenv("TE_BUILD_ID", "17")
 
 	//log.Println("Running Pipeline")
 	//output, err := runCommand("cd ../ && go test -v -run TestRun1 hello-app/pkg/module1")

@@ -62,7 +62,7 @@ func main() {
 	err = ci.RunStep(&ci.Step{
 		Name:  "int-test",
 		Image: "alpine:latest",
-		Cmd:   []string{"date"},
+		Cmd:   []string{"/bin/sh", "-c", "ls -al && sleep 10s date && pwd"},
 	})
 	if err != nil {
 		log.Println(err)

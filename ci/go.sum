@@ -189,6 +189,8 @@ github.com/tahirali-csc/task-executor-ci v0.0.2 h1:VR+aiNiSBolP4qILBPOxr6OJ5wsCh
 github.com/tahirali-csc/task-executor-ci v0.0.2/go.mod h1:xs9fhBzU1f164uUpx76oAmnfBwbm7CAxENhNQ2GSDjE=
 github.com/tahirali-csc/task-executor-ci v0.0.3 h1:u/I0pBde0+i6pcLfqOrI016pFM1byf7vgz6PnyEWeL0=
 github.com/tahirali-csc/task-executor-ci v0.0.3/go.mod h1:IDqLwDHfrmaIW1L7v4f1TCfVSzrIj8biaroTB4VHHyE=
+github.com/tahirali-csc/task-executor-ci v0.0.4 h1:O5smPxvQgiv4IYHcUE/FL76+YDJe6duRPB7odKOYlqM=
+github.com/tahirali-csc/task-executor-ci v0.0.4/go.mod h1:Wj3o714ZaZutOWK6XlN8sW4DQdASTBSO7z5OEhiJUl0=
 github.com/tahirali-csc/task-executor-engine v0.0.1 h1:hmwQDhZJIj2pJlZGstAzKjQJQ/2BJudcAr+1JzMs2pQ=
 github.com/tahirali-csc/task-executor-engine v0.0.1/go.mod h1:9vLC5wATGl9FfaHQWpuxJgcEoJMNRPoSLqQ04u0Oq/I=
 github.com/tahirali-csc/task-executor-engine v0.0.3 h1:evJYFWi0aEqEa9HjjFX5/wAFqONdVqdcoQ1DLDgruvA=

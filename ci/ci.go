@@ -50,7 +50,10 @@ func main() {
 	//}
 	//log.Println(output)
 
-	err := ci.RunStep(&ci.Step{
+
+	build := ci.NewBuild()
+
+	err := build.Exec(&ci.Step{
 		Name:  "unit-test",
 		Image: "alpine:latest",
 		Cmd:   []string{"/bin/sh", "-c", "date"},
@@ -59,7 +62,7 @@ func main() {
 		log.Println(err)
 	}
 
-	err = ci.RunStep(&ci.Step{
+	err = build.Exec(&ci.Step{
 		Name:  "int-test",
 		Image: "alpine:latest",
 		Cmd:   []string{"/bin/sh", "-c", "ls -al / && echo 'Sleeping' && sleep 10s && pwd"},
@@ -67,4 +70,6 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	}
+
+	build.Done()
 }

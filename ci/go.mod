@@ -9,4 +9,4 @@ replace (
 	k8s.io/client-go => k8s.io/client-go v0.19.2
 )
 
-require github.com/tahirali-csc/task-executor-ci v0.0.4
+require github.com/tahirali-csc/task-executor-ci v0.0.5

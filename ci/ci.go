@@ -65,7 +65,7 @@ func main() {
 	err = build.Exec(&ci.Step{
 		Name:  "int-test",
 		Image: "alpine:latest",
-		Cmd:   []string{"/bin/sh", "-c", "sleep 10s && ls -al'"},
+		Cmd:   []string{"/bin/sh", "-c", "sleep 10s && ls -al"},
 	})
 	if err != nil {
 		log.Println(err)

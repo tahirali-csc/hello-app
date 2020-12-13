@@ -56,7 +56,7 @@ func main() {
 	err := build.Exec(&ci.Step{
 		Name:  "unit-test",
 		Image: "alpine:latest",
-		Cmd:   []string{"/bin/sh", "-c", "date"},
+		Cmd:   []string{"/bin/sh", "-c", "echo 'Msg 1'"},
 	})
 	if err != nil {
 		log.Println(err)
@@ -65,7 +65,7 @@ func main() {
 	err = build.Exec(&ci.Step{
 		Name:  "int-test",
 		Image: "alpine:latest",
-		Cmd:   []string{"/bin/sh", "-c", "ls -al / && echo 'Sleeping' && sleep 10s && pwd"},
+		Cmd:   []string{"/bin/sh", "-c", "echo 'Msg 2'"},
 	})
 	if err != nil {
 		log.Println(err)

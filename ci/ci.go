@@ -2,9 +2,10 @@ package main
 
 import (
 	"bufio"
-	ci "github.com/tahirali-csc/task-executor-ci"
 	"log"
 	"os/exec"
+
+	ci "github.com/tahirali-csc/task-executor-ci"
 )
 
 func runCommand(cmd string) (string, error) {
@@ -49,7 +50,6 @@ func main() {
 	//	panic(err)
 	//}
 	//log.Println(output)
-
 
 	build := ci.NewBuild()
 

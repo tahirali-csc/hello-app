@@ -193,10 +193,14 @@ github.com/tahirali-csc/task-executor-ci v0.0.4 h1:O5smPxvQgiv4IYHcUE/FL76+YDJe6
 github.com/tahirali-csc/task-executor-ci v0.0.4/go.mod h1:Wj3o714ZaZutOWK6XlN8sW4DQdASTBSO7z5OEhiJUl0=
 github.com/tahirali-csc/task-executor-ci v0.0.5 h1:qHbeuqrTAiA4mWdTrCWI286Hm5SeLb4bGZjzwxjo+Ts=
 github.com/tahirali-csc/task-executor-ci v0.0.5/go.mod h1:Wj3o714ZaZutOWK6XlN8sW4DQdASTBSO7z5OEhiJUl0=
+github.com/tahirali-csc/task-executor-ci v0.0.7 h1:IxvGlbgfbBTqHUDbAylZN5cvVl1xb1Kp3tYwKwyz8So=
+github.com/tahirali-csc/task-executor-ci v0.0.7/go.mod h1:n+N06pFIHhxlhpopsIQao1bNBASTLJ/S+afoc9yqjJU=
 github.com/tahirali-csc/task-executor-engine v0.0.1 h1:hmwQDhZJIj2pJlZGstAzKjQJQ/2BJudcAr+1JzMs2pQ=
 github.com/tahirali-csc/task-executor-engine v0.0.1/go.mod h1:9vLC5wATGl9FfaHQWpuxJgcEoJMNRPoSLqQ04u0Oq/I=
 github.com/tahirali-csc/task-executor-engine v0.0.3 h1:evJYFWi0aEqEa9HjjFX5/wAFqONdVqdcoQ1DLDgruvA=
 github.com/tahirali-csc/task-executor-engine v0.0.3/go.mod h1:NGYvc7hS2n17xJwsVardhnhvSma+ySqbprzntbR1J7s=
+github.com/tahirali-csc/task-executor-engine v0.0.4 h1:PrU1MvolI/QVDfj2mq/0Ujcq3ORXv721B71rUSU/OWI=
+github.com/tahirali-csc/task-executor-engine v0.0.4/go.mod h1:hGtmpTJsa+wN/CYJTh4bq4y+LFXjYeIOGObgCfd+y7M=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.32/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
